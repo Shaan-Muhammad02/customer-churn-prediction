@@ -56,7 +56,6 @@ The original dataset was imbalanced, with approximately:
 
 <img width="862" height="735" alt="churn_distribution" src="https://github.com/user-attachments/assets/a14fb081-fc81-4a6d-819c-5ec152679d0c" />
 
-
 ## Exploratory Data Analysis
 
 Exploratory data analysis was performed to identify patterns associated with customer churn.
@@ -93,7 +92,7 @@ A noticeable drop-off was observed during approximately the first **1-5 months**
 
 Customers using **Electronic Check** showed a stronger association with churn.
 
-<!-- Add tenure / churn drivers screenshot here later -->
+<img width="825" height="647" alt="image" src="https://github.com/user-attachments/assets/41190f1e-0630-498d-ab4b-8f1cb79e1e61" />
 
 ## Methodology
 
@@ -142,7 +141,7 @@ SMOTE was applied **only to the training dataset** after the train-test split.
 
 This created a more balanced training sample and improved the ability of the models to identify actual churners.
 
-<!-- Add SMOTE workflow screenshot here later -->
+<img width="430" height="792" alt="image" src="https://github.com/user-attachments/assets/759367be-d830-4b42-bdc6-e61b00fa4ac4" />
 
 ## Machine Learning Models
 
@@ -211,7 +210,7 @@ SMOTE increased churn recall from approximately:
 
 This substantially improved the model's ability to detect customers at risk of leaving.
 
-<!-- Add model results screenshot here later -->
+<img width="1892" height="397" alt="image" src="https://github.com/user-attachments/assets/0a6666c6-39e4-4927-aa76-d8f9850945fe" />
 
 ## Key Findings
 
