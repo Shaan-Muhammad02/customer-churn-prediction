@@ -88,11 +88,11 @@ Churn risk was particularly high among customers in the early stages of their re
 
 A noticeable drop-off was observed during approximately the first **1-5 months** of customer tenure.
 
+<img width="825" height="647" alt="image" src="https://github.com/user-attachments/assets/41190f1e-0630-498d-ab4b-8f1cb79e1e61" />
+
 ### Payment Method
 
 Customers using **Electronic Check** showed a stronger association with churn.
-
-<img width="825" height="647" alt="image" src="https://github.com/user-attachments/assets/41190f1e-0630-498d-ab4b-8f1cb79e1e61" />
 
 ## Methodology
 
@@ -202,6 +202,8 @@ Although Random Forest achieved slightly higher overall accuracy, its lower chur
 
 Because customer retention was the primary business objective, the SVC model was considered more useful.
 
+<img width="1892" height="397" alt="image" src="https://github.com/user-attachments/assets/0a6666c6-39e4-4927-aa76-d8f9850945fe" />
+
 ### Effect of SMOTE
 
 SMOTE increased churn recall from approximately:
@@ -209,8 +211,6 @@ SMOTE increased churn recall from approximately:
 **48% → 77%**
 
 This substantially improved the model's ability to detect customers at risk of leaving.
-
-<img width="1892" height="397" alt="image" src="https://github.com/user-attachments/assets/0a6666c6-39e4-4927-aa76-d8f9850945fe" />
 
 ## Key Findings
 
