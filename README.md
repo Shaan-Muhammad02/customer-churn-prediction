@@ -54,7 +54,8 @@ The original dataset was imbalanced, with approximately:
 - **73.42% No Churn**
 - **26.58% Churn**
 
-<!-- Add churn distribution screenshot here later -->
+<img width="862" height="735" alt="churn_distribution" src="https://github.com/user-attachments/assets/a14fb081-fc81-4a6d-819c-5ec152679d0c" />
+
 
 ## Exploratory Data Analysis
 
